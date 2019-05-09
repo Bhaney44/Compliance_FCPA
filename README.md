@@ -1,8 +1,13 @@
-# Compliance_FCPA
-FCPA_Compliance_Algorithm
+# Foreign Corrupt Practices Act Compliance
 
-#Link to Paper
-'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3261443'
+Summary
+---
+This repository contains code for automating the development scheme and evaluation for organizational Foreign Corrupt Practices Act compliance. This code was developed based upon an academic paper published in the University of Pittsburgh Law School's Journal of Technology, Law, and Policy.
 
-#Citation
-'Calculating Corporate Compliance & the Foreign Corrupt Practices Act 19 U. Pitt. J. Tech. L. & Pol’y__ (2019) (Forthcoming).'
+Copyright
+---
+Copyright Martian Technologies 2019
+
+Ciation
+---
+Haney, Brian S., Calculating Corporate Compliance & The Foreign Corrupt Practices Act, Pittsburgh Journal of Technology Law and Policy, ISSN: 2164-800x, Vol: 19, Issue: 1, University of Pittsburgh (2019) https://tlp.law.pitt.edu/ojs/index.php/tlp/article/view/225.
