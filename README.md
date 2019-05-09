@@ -2,7 +2,7 @@
 
 Summary
 ---
-This repository contains code for automating the development scheme and evaluation for organizational Foreign Corrupt Practices Act compliance. This code was developed based upon an academic paper published in the University of Pittsburgh Law School's Journal of Technology, Law, and Policy.
+This repository contains code for automating the development and evaluation of organizational Foreign Corrupt Practices Act compliance programs. This code was developed based upon an academic paper published in the University of Pittsburgh Law School's Journal of Technology, Law, and Policy.
 
 Copyright
 ---
