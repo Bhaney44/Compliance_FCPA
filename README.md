@@ -1,8 +1,8 @@
-# Foreign Corrupt Practices Act Compliance
+# Vladimir, AI for Foreign Corrupt Practices Act Compliance
 
 Summary
 ---
-This repository contains code for automating the development and evaluation of organizational Foreign Corrupt Practices Act compliance programs. This code was developed based upon an academic paper published in the University of Pittsburgh Law School's Journal of Technology, Law, and Policy.
+Vladimir is an AI for aiding in the development and evaluation of organizational Foreign Corrupt Practices Act compliance programs. This respository contains the Code for Vladimir 1.0. Vladimir 1.0 is an initial prototype developed based upon an academic paper published in the University of Pittsburgh Law School's Journal of Technology, Law, and Policy. The current version is Vladimir 2.0.
 
 Copyright
 ---
