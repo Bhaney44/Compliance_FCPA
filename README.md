@@ -2,11 +2,11 @@
 
 Summary
 ---
-Vladimir is an AI for aiding in the development and evaluation of organizational Foreign Corrupt Practices Act (FCPA) compliance programs. This respository contains the Code for Vladimir 1.0. Vladimir 1.0 is an initial prototype developed based upon an academic paper published in the University of Pittsburgh Law School's Journal of Technology, Law, and Policy. The current version of the code is Vladimir 2.0.
+An AI for aiding in the development and evaluation of organizational Foreign Corrupt Practices Act (FCPA) compliance programs. This respository contains the Code for  an initial prototype developed based upon an academic paper published in the University of Pittsburgh Law School's Journal of Technology, Law, and Policy.
 
 Copyright
 ---
-Copyright Martian Technologies 2019
+Copyright Brian S. Haney 2019
 
 Ciation
 ---
