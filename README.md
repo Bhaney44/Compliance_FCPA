@@ -1,4 +1,4 @@
-# Vladimir, AI for Foreign Corrupt Practices Act Compliance
+# AI for Foreign Corrupt Practices Act Compliance
 
 Summary
 ---
